@@ -178,7 +178,7 @@
 
 /* deals part */
 .bannerdeals{
-  background-image: url("Rectangle 9.png");
+  background-image: url(Rectangle\ 9.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 100px;
