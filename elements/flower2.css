@@ -32,7 +32,7 @@
     flex: 1;
     margin-right: 10%;
     text-align: right;
-    padding: 105px 0px 0px 0px;
+    padding: 105px 0px 100px 0px;
   }
   
   .shop-button {
@@ -178,7 +178,7 @@
 
 /* deals part */
 .bannerdeals{
-  background-image: url(Rectangle\ 9.png);
+  background-image: url("Rectangle 9.png");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 100px;
